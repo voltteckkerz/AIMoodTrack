@@ -1,0 +1,21 @@
+track_id,track_name,artist_name,valence,energy,danceability,album_art
+1,Blinding Lights,The Weeknd,0.334,0.73,0.514,https://i.scdn.co/image/ab67616d0000b2738863bc11d2aa12b54f5aeb36
+2,Don't Stop Me Now,Queen,0.671,0.865,0.559,https://i.scdn.co/image/ab67616d0000b273e8b066f70c206551210d902b
+3,Weightless,Marconi Union,0.31,0.08,0.22,https://i.scdn.co/image/ab67616d0000b273b4ba7fdcc3f1b4c95f0dbba8
+4,Someone Like You,Adele,0.28,0.33,0.56,https://i.scdn.co/image/ab67616d0000b27321182dca043329f2da542152
+5,Eye of the Tiger,Survivor,0.55,0.88,0.81,https://i.scdn.co/image/ab67616d0000b2731ce3ef10bed0bd65eb305c19
+6,Breathe,Télépopmusik,0.51,0.48,0.68,https://i.scdn.co/image/ab67616d00001e02ef29b35bc401bda4f3dc4f31
+7,Lose Yourself,Eminem,0.06,0.74,0.69,https://i.scdn.co/image/ab67616d0000b273b6ef2ebd34efb08cb76f6eec
+8,Fix You,Coldplay,0.24,0.42,0.21,https://i.scdn.co/image/ab67616d0000b2737ef092e07973142279144365
+9,Happy,Pharrell Williams,0.96,0.82,0.93,https://i.scdn.co/image/ab67616d0000b2733d73f1ff6ad86c87cfd6006f
+10,Clair de Lune,Claude Debussy,0.05,0.01,0.21,https://i.scdn.co/image/ab67616d0000b273b88b0a94b5aa27714bc249fe
+11,Stronger,Kanye West,0.48,0.73,0.61,https://i.scdn.co/image/ab67616d0000b2730da889551cde056ebcce5358
+12,Therefore I Am,Billie Eilish,0.71,0.34,0.89,https://i.scdn.co/image/ab67616d0000b273e61c5c56c2af817b1bf7ba4d
+13,Kill Bill,SZA,0.42,0.73,0.64,https://i.scdn.co/image/ab67616d0000b2730c471c36970b12bc1cb52467
+14,As It Was,Harry Styles,0.66,0.73,0.52,https://i.scdn.co/image/ab67616d0000b2732e8f5925ab2dc6788af64eb2
+15,Stay,The Kid LAROI & Justin Bieber,0.48,0.76,0.59,https://i.scdn.co/image/ab67616d0000b2738676ade39886a1df88defed9
+16,Creep,Radiohead,0.1,0.43,0.51,https://i.scdn.co/image/ab67616d0000b273c8b444ef09420216b5a3e144
+17,Sunrise,Norah Jones,0.68,0.3,0.53,https://i.scdn.co/image/ab67616d0000b27341e0ff0d4862590498b939e1
+18,Chop Suey!,System Of A Down,0.28,0.93,0.42,https://i.scdn.co/image/ab67616d0000b2731c3ddae70dbb6be669cb2cc6
+19,Unstoppable,Sia,0.26,0.71,0.46,https://i.scdn.co/image/ab67616d0000b2736b0ecadfc580ea5c1fc162d9
+20,Lofi Beats,Chillhop,0.5,0.2,0.4,https://i.scdn.co/image/ab67616d0000b27382d64df59e843ba09044ccdc
